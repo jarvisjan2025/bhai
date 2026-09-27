@@ -81,11 +81,11 @@ window.weddingDetails = {
 
   // 6. Day Schedule / Timeline
   schedule: [
-    { id: '1', time: '16:00', title: 'Baraat & Swagat', description: 'Welcoming the Groom & Baraat procession' },
-    { id: '2', time: '17:00', title: 'Varmala & Jaimala', description: 'Exchange of floral garlands' },
-    { id: '3', time: '18:30', title: 'Pheras & Wedding Rituals', description: 'Sacred wedding vows' },
-    { id: '4', time: '20:00', title: 'Gala Dinner & Feast', description: 'Royal banquet dinner' },
-    { id: '5', time: '22:30', title: 'Doli & Vidai', description: 'Blessings and farewell' },
+    { id: '1', time: '19:30', title: 'Baraat & Swagat', description: 'Welcoming the Groom & Baraat procession' },
+    { id: '2', time: '21:00', title: 'Varmala & Jaimala', description: 'Exchange of floral garlands' },
+    { id: '3', time: '23:30', title: 'Pheras & Wedding Rituals', description: 'Sacred wedding vows' },
+    { id: '4', time: '20:30', title: 'Gala Dinner & Feast', description: 'Royal banquet dinner' },
+   // { id: '5', time: '22:30', title: 'Doli & Vidai', description: 'Blessings and farewell' },
   ],
 
   // 7. Photo Gallery
